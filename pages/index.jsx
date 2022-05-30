@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react';
-import {NFTCard} from "./components/nftCard";
-import {NFTCardLarge} from "./components/nftCardLarge";
+import {NFTCard} from "../components/nftCard";
+import {NFTCardLarge} from "../components/nftCardLarge";
 
 
 const Home = () => {

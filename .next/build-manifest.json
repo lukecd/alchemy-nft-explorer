@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/qmj0Y9gCU4ttLi042cS7d/_buildManifest.js",
-    "static/qmj0Y9gCU4ttLi042cS7d/_ssgManifest.js",
-    "static/qmj0Y9gCU4ttLi042cS7d/_middlewareManifest.js"
+    "static/onBDKbYACxXwkL2RIWqZX/_buildManifest.js",
+    "static/onBDKbYACxXwkL2RIWqZX/_ssgManifest.js",
+    "static/onBDKbYACxXwkL2RIWqZX/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -15,7 +15,7 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-81f4fb35f4507347.js",
       "static/chunks/959-29d198ba233ea834.js",
-      "static/chunks/pages/index-1cbb60d4ffba4260.js"
+      "static/chunks/pages/index-bcb8bd64fd8b84a4.js"
     ],
     "/_app": [
       "static/chunks/webpack-69bfa6990bb9e155.js",
@@ -29,18 +29,6 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-81f4fb35f4507347.js",
       "static/chunks/pages/_error-0a004b8b8498208d.js"
-    ],
-    "/components/nftCard": [
-      "static/chunks/webpack-69bfa6990bb9e155.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-81f4fb35f4507347.js",
-      "static/chunks/pages/components/nftCard-88dc4d74cfee5c05.js"
-    ],
-    "/components/nftCardLarge": [
-      "static/chunks/webpack-69bfa6990bb9e155.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-81f4fb35f4507347.js",
-      "static/chunks/pages/components/nftCardLarge-9e2b8ecb44310b87.js"
     ]
   },
   "ampFirstPages": []
