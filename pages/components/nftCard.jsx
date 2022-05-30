@@ -1,4 +1,4 @@
-export const NFTCard = ({nft,callbackFunction}) => {
+export  const NFTCard = ({nft,callbackFunction}) => {
     if(!nft) {
         return (
             <p>no nft provided</p>

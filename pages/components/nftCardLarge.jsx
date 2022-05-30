@@ -1,4 +1,4 @@
-export const NFTCardLarge = ({nft}) => {    
+export  const NFTCardLarge = ({nft}) => {    
     if(!nft) {
         return (
             <p>no nft provided</p>
