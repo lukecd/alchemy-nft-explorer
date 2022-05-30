@@ -1,4 +1,4 @@
-export  const NFTCard = ({nft,callbackFunction}) => {
+const NFTCard = ({nft,callbackFunction}) => {
     if(!nft) {
         return (
             <p>no nft provided</p>
@@ -69,3 +69,5 @@ export  const NFTCard = ({nft,callbackFunction}) => {
     }
  
 }
+
+export default NFTCard
